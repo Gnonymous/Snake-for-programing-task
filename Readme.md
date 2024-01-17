@@ -9,8 +9,9 @@
 **此项目开源共大家学习使用，希望大家可以pr其中的游戏功能pr，或者issues有时间都会回复。**
 
 ## 游戏截图
-![c00debf4446018a42757d12c80b024c](https://user-images.githubusercontent.com/105557628/171621852-6b7db20b-cb5c-46fa-a5ad-f2819eaa5db2.png)
-![97db6c70cb439d6a6d2e54e559977da](https://user-images.githubusercontent.com/105557628/171621866-186e19ea-48cc-4526-a6a6-195eda66fea2.png)
+![image](https://github.com/Gnonymous/Snake-for-programing-task-/assets/105557628/38a81ab7-d28f-47a2-bb23-194301389a5c)
+![image](https://github.com/Gnonymous/Snake-for-programing-task-/assets/105557628/44578a44-c719-411c-9340-6996f7d45748)
+
 
 
 ## 代码部分
